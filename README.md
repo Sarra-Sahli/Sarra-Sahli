@@ -1,16 +1,13 @@
-## Hi there 👋
+💫 Hello 
+My name is Sarra, web development and cybersec Student !
 
-<!--
-**Sarra-Sahli/Sarra-Sahli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ESPRIT & CyTech- Private Higher School of Engineering and Technologies and Now Im studing CyberSec in CyTech.
 
-Here are some ideas to get you started:
+💻 Passionate about web development and modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently exploring DevOps, React and Angular.
+
+🎯 Goal: Become an accomplished Full Stack Developer and build my dream web application  .
+
+⚡ Fun fact: I love turning ideas into functional code! 
+
