@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my my personal project **ReadOO**
 
-- 🌱 I’m currently learning **SpringBoot, Devops, kubernate**
+- 🌱 I’m currently learning **SpringBoot, Devops, kubernetes**
 
 - 🎯 My Goal [Become an accomplished Full Stack Developer and build my dream web application .](Become an accomplished Full Stack Developer and build my dream web application .)
 
