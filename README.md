@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, Devops, kubernetes**
 
-- 🎯 My Goal [Become an accomplished Full Stack Developer and build my dream web application .](Become an accomplished Full Stack Developer and build my dream web application .)
+- 🎯 My Goal : Become an accomplished Full Stack Developer and build my dream web application  
 
 - 📫 How to reach me **sarah1sahlii1@gmail.com**
 
